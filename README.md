@@ -56,4 +56,4 @@ sell time: 2020-12-31 00:20:00
 profit: 25369.71
 ```
 ## Source Code
-The folder `Source Code` include the original code script and files that would pack as the executable file (i.e., suggest-time).
+The folder `Source Code` includes the original code script and files that would pack as the executable file (i.e., suggest-time).
